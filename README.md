@@ -89,4 +89,4 @@ cmake --build build -j4
 ---
 
 ## Developed by Sankalp S. Kulkarni
-University of Florida — Computer Science
+University of Florida — Computer Engineering
